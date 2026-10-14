@@ -1,0 +1,7 @@
+{
+  "name": "czr-tickets",
+  "owner": { "name": "Chenzr888" },
+  "plugins": [
+    { "name": "czr-tickets", "source": "./", "description": "客户提单 → AI 处理 → 人把关上线" }
+  ]
+}
